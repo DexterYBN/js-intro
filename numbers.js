@@ -1,0 +1,22 @@
+let myAge = 26;
+let yearOfBirth = 1996;
+let birthNumber = 23;
+let siblingsNumberBro = 0;
+let siblingsNumberSis = 3;
+let familyMembersCount = 6;
+let costOfTravelOfStudy = 500;
+let currentYear = 2022;
+let dollarRate = 61;
+let euroRate = 61;
+let bitcoinRate = 1270633;
+
+let age = currentYear - yearOfBirth;
+let yearBirth = costOfTravelOfStudy - myAge;
+let broAndSisNumber = siblingsNumberBro + siblingsNumberSis;
+let eurosRate = euroRate * 1000;
+let dollarsRate = dollarRate * 2.5;
+let bitcRate = bitcoinRate / 10000;
+let costOfTravelOfStudyDollar = costOfTravelOfStudy / dollarRate;
+let family = familyMembersCount - siblingsNumberBro - siblingsNumberSis;
+let zero = 0 / myAge;
+let someNumber = 35 - myAge;
